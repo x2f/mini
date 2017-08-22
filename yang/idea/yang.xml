@@ -13,9 +13,9 @@
       <option name="HAS_STRING_ESCAPES" value="true" />
     </options>
     <keywords keywords="augment;base;case;choice;default;description;input;key;leaf;leaf-list;list;mandatory;must;output;reference;type;uses;when" ignore_case="false" />
-    <keywords2 keywords="enum;value" />
-    <keywords3 keywords="binary;bits;boolean;decimal64;empty;enumeration;identityref;instance-identifier;int16;int32;int64;int8;leafref;string;uint16;uint32;uint64;uint8;union" />
-    <keywords4 keywords="contact;container;grouping;identity;import;include;module;organization;revision;rpc;submodule;typedef" />
+    <keywords2 keywords="enum;value" ignore_case="false" />
+    <keywords3 keywords="binary;bits;boolean;decimal64;empty;enumeration;identityref;instance-identifier;int16;int32;int64;int8;leafref;string;uint16;uint32;uint64;uint8;union" ignore_case="false" />
+    <keywords4 keywords="contact;container;grouping;identity;import;include;module;organization;revision;rpc;submodule;typedef" ignore_case="false" />
   </highlighting>
   <extensionMap>
     <mapping ext="yang" />
